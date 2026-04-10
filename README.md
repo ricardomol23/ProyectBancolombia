@@ -240,3 +240,4 @@ Video demo: https://drive.google.com/file/d/1Gk1m5K-Cj_YlZVKoN-F_jpEtu0O1QKon/vi
 ## Autor
 
 Ricardo Molina
+Estudiante de Ingenieria en Analítica de datos.
