@@ -1,0 +1,28 @@
+proyecto-inversiones/
+│
+├── data/                 # NO subir a GitHub
+│   └── raw/              # CSV originales
+│
+├── sql/
+│   ├── create_tables.sql
+│   ├── load_data.sql
+│   ├── transformaciones.sql
+│   └── consultas_finales.sql
+│
+├── src/
+│   ├── db/
+│   │   └── connection.py
+│   │
+│   ├── etl/
+│   │   └── load_csv.py
+│   │
+│   ├── analytics/
+│   │   └── modelo.py
+│   │
+│   └── app/
+│       └── dashboard.py   # Dash o Plotly
+│
+├── .gitignore
+├── requirements.txt
+├── README.md
+└── main.py
